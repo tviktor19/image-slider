@@ -1,2 +1,2 @@
 # image-slider
-Image slider
+Image slider with css effect
